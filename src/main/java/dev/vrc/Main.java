@@ -1,7 +1,9 @@
 package dev.vrc;
 
+import dev.vexide.hydrozoa.CompetitionRuntime;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        CompetitionRuntime.start(Robot::new);
     }
 }
