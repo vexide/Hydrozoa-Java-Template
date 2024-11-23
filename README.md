@@ -1,4 +1,4 @@
-# Hydrozoa Java Template
+# <center>Hydrozoa Java Template</center>
 
 > Ready-to-use template for developing VEX V5 robots in Java.
 
